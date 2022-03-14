@@ -5,16 +5,16 @@ category: info
 
 docname: draft-ietf-drip-rid-latest
 v: 3
-area: AREA
-workgroup: DRIP
+area: "Internet"
+workgroup: "Drone Remote ID Protocol"
 keyword: Internet-Draft
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "Drone Remote ID Protocol"
+  type: "Working Group"
+  mail: "tm-rid@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/tm-rid/"
+  github: "ietf-wg-drip/draft-ietf-drip-rid"
+  latest: "https://ietf-wg-drip.github.io/draft-ietf-drip-rid/draft-ietf-drip-rid.html"
 
 author:
  -
