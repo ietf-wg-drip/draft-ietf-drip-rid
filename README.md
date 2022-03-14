@@ -1,6 +1,6 @@
 # TODO - Your title
 
-This is the working area for the IETF [DRIP Working Group](https://datatracker.ietf.org/wg/drip/documents/) Internet-Draft, "TODO - Your title".
+This is the working area for the IETF [DRIP Working Group](https://datatracker.ietf.org/wg/drip/documents/) Internet-Draft, "DRIP Entity Tag (DET) for Unmanned Aircraft System Remote Identification (UAS RID)".
 
 * [Editor's Copy](https://ietf-wg-drip.github.io/draft-ietf-drip-rid/#go.draft-ietf-drip-rid.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-ietf-drip-rid)
