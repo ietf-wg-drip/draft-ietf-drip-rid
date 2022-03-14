@@ -1,19 +1,26 @@
-title: "DRIP Entity Tag (DET) for Unmanned Aircraft System Remote Identification (UAS RID)"
-abbrev: "DRIP RID"
-category: standards
+---
+title: "TODO - Your title"
+abbrev: "TODO - Abbreviation"
+category: info
 
 docname: draft-ietf-drip-rid-latest
 v: 3
 area: AREA
-workgroup: drip
+workgroup: DRIP
 keyword: Internet-Draft
-
+venue:
+  group: WG
+  type: Working Group
+  mail: WG@example.com
+  arch: https://example.com/WG
+  github: USER/REPO
+  latest: https://example.com/LATEST
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: xxxx ssss
+    organization: sss
+    email: ssss@sss.com
 
 normative:
 
