@@ -19,22 +19,16 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
-category: info
+title: "DRIP Entity Tag (DET) for Unmanned Aircraft System Remote Identification (UAS RID)"
+abbrev: "DRIP RID"
+category: standards
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-ietf-drip-rid-latest
 v: 3
 area: AREA
-workgroup: WG Working Group
+workgroup: drip
 keyword: Internet-Draft
-venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+
 
 author:
  -
