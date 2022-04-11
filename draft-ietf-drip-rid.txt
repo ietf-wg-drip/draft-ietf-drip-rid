@@ -4,8 +4,8 @@
 
 Drone Remote ID Protocol                                         X. ssss
 Internet-Draft                                                       sss
-Intended status: Informational                             22 March 2022
-Expires: 23 September 2022
+Intended status: Informational                             11 April 2022
+Expires: 13 October 2022
 
 
                            TODO - Your title
@@ -46,7 +46,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 23 September 2022.
+   This Internet-Draft will expire on 13 October 2022.
 
 Copyright Notice
 
